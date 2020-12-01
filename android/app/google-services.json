@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32286342630",
+    "firebase_url": "https://unified-adviser-287605.firebaseio.com",
+    "project_id": "unified-adviser-287605",
+    "storage_bucket": "unified-adviser-287605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32286342630:android:47fed694f74fadaaa7aa27",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32286342630-v19httje92s0db6jo2aabj349lf7so70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANYMwWXSufBvYbGTCE-6zQVKvLEY64umE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32286342630-v19httje92s0db6jo2aabj349lf7so70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
